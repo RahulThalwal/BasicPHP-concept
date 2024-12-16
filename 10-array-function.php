@@ -3,7 +3,6 @@
 $users=["anil","peter","sam","bruce","tony","anil","sam"];
 $user=["name"=>"sky","age"=>20,"email"=>"abc@.com"];
 //echo count($users); 
-
 // unset($users[2]);
 // array_push($users,"sidhu");
 // array_pop($users);
